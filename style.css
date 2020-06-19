@@ -1,0 +1,210 @@
+*
+{
+  margine: 0;
+  padding: 0;
+}
+
+header{
+  background-image: url(Unicorn.jpg);
+  height: 260vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.main-nav
+{
+  float: right;
+  list-style: none;
+margin-top: 100px;
+margin-right: 60px;
+}
+
+.main-nav li
+{
+  display: inline-block;
+}
+
+.main-nav li a
+{
+  colour: black;
+  text-decoration: none;
+  padding: 10px 80px;
+  font-family: "Andika";
+  font-size: 25px;
+}
+
+.main-nav li.active a
+{
+  border: 3px solid white;
+}
+
+.main-nav li a:hover
+{
+  border: 3px solid white;
+}
+
+.logo img
+{
+  margin-top: 50px;
+  margin-left: 150px;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+body
+{
+  font-family: "Andika";
+}
+
+.row
+{
+  max-width: auto;
+  margin: auto;
+}
+
+
+.hero
+{
+  position: absolute;
+  width: auto;
+  margin-left: 80px;
+  margin-top: 0;
+}
+.profilePhoto img
+{
+  margin-top: 0px;
+  margin-right: 0;
+  width: 300px;
+  height: 400px;
+  float: right;
+}
+
+.afpPhoto img
+{
+  margin-top: 40px;
+  margin-left: 10px;
+  width: 400px;
+  height: 200px;
+  float: left;
+}
+
+.MainMenuTextcolumn1
+{
+  float: left;
+  width: 250px;
+}
+.MainMenuTextcolumn2
+{
+  float: left;
+  width: 250px;
+  margin-left: 30px;
+}
+
+.MainMenuTextcolumn3
+{
+  float: right;
+  width: 800px;
+  margin-left: 30px;
+}
+
+
+.RestOfText
+{
+  position: absolute;
+  width: 800px;
+  margin-left: 0;
+  margin-top: 250px;
+  margin-right: 0;
+}
+
+.InterestInIT
+{
+  position: absolute;
+  width: 900px;
+  margin-top: 500px;
+  float: right;
+}
+.IdealJob
+{
+  position: absolute;
+  width: 1200px;
+  margin-top: 800px;
+  float: right;
+}
+
+.IdealJobColumn1
+{
+  float: left;
+  width: 500px;
+  margin-left: 30px;
+}
+.IdealJobColumn2
+{
+  float: left;
+  width: 250px;
+  margin-left: 30px;
+}
+.IdealJobColumn3
+{
+  float: left;
+  width: 250px;
+  margin-left: 30px;
+}
+
+.IdealJobRest
+{
+  float: left;
+  width: 1200px;
+  margin-left: 0px;
+}
+
+
+h1
+{
+  color: black;
+  font-family: "Andika";
+  text-transform: uppercase;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 300px;
+}
+
+h2
+{
+  color: black;
+  font-family: "Andika";
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: auto;
+}
+
+h3
+{
+  color: black;
+  font-family: "Andika";
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  margin-top: auto;
+}
+h4
+{
+  color: black;
+  font-family: "Andika";
+  font-weight: normal;
+  font-size: 18px;
+  text-align: left;
+  margin-top: auto;
+}
+
+pre
+{
+  color: black;
+  font-family: "Andika";
+  font-weight: normal;
+  font-size: 18px;
+  text-align: left;
+  margin-top: auto;
+}
