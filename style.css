@@ -94,10 +94,19 @@ margin-right: 60px;
   float: left;
 }
 
+.lsprofile img
+{
+  margin-top: 40px;
+  margin-left: 10px;
+  width: 2px;
+  height: 2px;
+  float: left;
+}
+
 .MainMenuTextcolumn1
 {
   float: left;
-  width: 250px;
+  width: 500px;
 }
 .MainMenuTextcolumn2
 {
@@ -108,8 +117,8 @@ margin-right: 60px;
 
 .MainMenuTextcolumn3
 {
-  float: right;
-  width: 800px;
+  float: left;
+  width: 600px;
   margin-left: 30px;
 }
 
@@ -117,24 +126,24 @@ margin-right: 60px;
 .RestOfText
 {
   position: absolute;
-  width: 800px;
+  width: 1200px;
   margin-left: 0;
-  margin-top: 250px;
+  margin-top: 400px;
   margin-right: 0;
 }
 
 .InterestInIT
 {
   position: absolute;
-  width: 900px;
-  margin-top: 500px;
+  width: 1200px;
+  margin-top: 700px;
   float: right;
 }
 .IdealJob
 {
   position: absolute;
   width: 1200px;
-  margin-top: 800px;
+  margin-top: 1100px;
   float: right;
 }
 
@@ -147,13 +156,13 @@ margin-right: 60px;
 .IdealJobColumn2
 {
   float: left;
-  width: 250px;
+  width: 400px;
   margin-left: 30px;
 }
 .IdealJobColumn3
 {
   float: left;
-  width: 250px;
+  width: 200px;
   margin-left: 30px;
 }
 
@@ -161,7 +170,97 @@ margin-right: 60px;
 {
   float: left;
   width: 1200px;
-  margin-left: 0px;
+  margin-left: 500px;
+}
+
+.myersbrigg
+{
+  position: absolute;
+  width: 1800px;
+  height: 4750px;
+  margin-top: 0px;
+  float: left;
+}
+
+.mbcol1
+{
+  float: left;
+  width: 500px;
+  margin-left: 30px;
+}
+
+.mbcol2
+{
+  float:left;
+  width: 1200px;
+  margin-left: 30px;
+  text-align:center;
+}
+
+.learningStyles
+{
+  position: absolute;
+  width: 1800px;
+  height: auto;
+  margin-top:800px;
+  float: left;
+}
+
+.lscol1
+{
+  float: left;
+  width: 1100px;
+  margin-left: 30px;
+}
+
+.lscol2
+{
+  float:left;
+  width: 500px;
+  margin-left: 30px;
+  text-align:center;
+}
+
+.personalitytest
+{
+  position: absolute;
+  width: 1800px;
+  height: auto;
+  margin-top: 2200px;
+  float: left;
+}
+
+.ptcol1
+{
+  float: left;
+  width: 500px;
+  margin-left: 30px;
+}
+
+.ptcol2
+{
+  float:left;
+  width: 1200px;
+  margin-left: 30px;
+  text-align:center;
+}
+
+.questionsAnswers
+{
+  position: absolute;
+  width: 1700px;
+  height: auto;
+  margin-top:3300px;
+  float: left;
+}
+
+.projecttext
+{
+  position: absolute;
+  width: 1700px;
+  height: 4750px;
+  margin-top:auto;
+  float: left;
 }
 
 
@@ -178,7 +277,7 @@ h2
 {
   color: black;
   font-family: "Andika";
-  font-size: 24px;
+  font-size: 36px;
   font-weight: bold;
   text-align: left;
   margin-top: auto;
@@ -189,7 +288,7 @@ h3
   color: black;
   font-family: "Andika";
   font-weight: bold;
-  font-size: 20px;
+  font-size: 30px;
   text-align: left;
   margin-top: auto;
 }
@@ -198,7 +297,37 @@ h4
   color: black;
   font-family: "Andika";
   font-weight: normal;
-  font-size: 18px;
+  font-size: 26px;
+  text-align: left;
+  margin-top: auto;
+}
+
+h5
+{
+  color: black;
+  font-family: "Andika";
+  font-weight: normal;
+  font-size: 36px;
+  text-align:center;
+  margin-top: auto;
+}
+
+h6
+{
+  color: black;
+  font-family: "Andika";
+  font-weight: bold;
+  font-size: 36px;
+  text-align:center;
+  margin-top: auto;
+}
+
+h7
+{
+  color: black;
+  font-family: "Andika";
+  font-weight: bold;
+  font-size: 26px;
   text-align: left;
   margin-top: auto;
 }
